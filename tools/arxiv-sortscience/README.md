@@ -2,7 +2,7 @@
 
 A Chrome extension for arXiv readers that will pop open associated explanations present on http://www.shortscience.org/ when present (otherwise will not change experience).
 
-Contributions welcome. Displaying explanations inline, popping up a modal, etc. could make the experience better (the current solution is meant to be minimal wrt permissions), and selectors in querying shortscience could be cleaned up.
+Contributions welcome. Displaying explanations inline, popping up a modal, etc. could make the experience better (the current solution is meant to be minimal wrt permissions), and selectors in querying shortscience could be cleaned up. Additionally I'm unhappy about including a minified jquery, but using an external url in the manifest didn't work.
 
 ## Installation
 
