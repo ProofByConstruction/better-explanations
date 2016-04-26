@@ -8,5 +8,6 @@
  - [Neural Turing Machines](1410.5401.md)
  - [Neural Random Access Machines](1511.06392.md)
 
-## Style Transfer
- - A Neural Algorithm of Artistic Style (TODO)
+## Curriculum Learning
+ - [Curriculum Learning](curriculum_learning.md)
+ - [Flexible shaping: How learning in small steps helps](flexible_shaping.md)
